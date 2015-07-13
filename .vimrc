@@ -1,3 +1,5 @@
+" Copy this into your home folder "
+
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
